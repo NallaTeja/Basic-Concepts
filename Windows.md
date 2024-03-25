@@ -1,5 +1,5 @@
 Fundamentals of Windows
-- Operating System (OS) *Architectire 
+- Operating System (OS) *OS Architecture *
 - Users & group
 - Device Management
 - Disk Management
