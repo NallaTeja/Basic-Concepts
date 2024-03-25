@@ -1,9 +1,10 @@
 Fundamentals of Windows
-- Operating System (OS) *OS Architecture *
+- Operating System (OS) *OS Architecture *Bit&byte *Types of Disk & Filesystem 
 - Users & group
 - Device Management
 - Disk Management
 - Task Schduler
+- Powershell & Command promt
 
 When you power on your PC, the operating system (OS) starts through a multi-step process known as booting.The services are up and running listed below:
 
