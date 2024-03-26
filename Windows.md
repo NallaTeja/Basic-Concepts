@@ -11,6 +11,7 @@ Certainly! Here's a more polished version of your text in a professional format:
 - **Bit & Byte:**
   - **Bit:** The smallest unit of data representation, with values of either 0 or 1. Essential for data transmission and processing.
   - **Byte:** Comprising 8 bits, commonly used for expressing storage sizes and representing 256 different values.
+- **Note:** 10 MBps (Megabytes per second) is greater than 10 Mbps (Megabits per second) because 10 MegaBytes consist of 10 × 8 = 80 Mbps. Data speed (internet) is measured in kilobits, megabits, and gigabits, while storage capacity (computer files) is expressed in kilobytes, megabytes, and gigabytes
 
 - **Types of Disk & Filesystem:**
   - **Disk Types:** Primary types include Hard Disk Drives (HDDs) and Solid State Drives (SSDs), differing in storage mechanisms and performance characteristics.
